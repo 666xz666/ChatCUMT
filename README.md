@@ -21,20 +21,17 @@
 
 - **知识图谱可视化**：以图形化方式直观展现复杂知识体系，帮助用户理解知识点间的内在联系。
 
-![69cc48a15134fa7445b5d0830137747](
-
-https://github.com/666xz666/ChatCUMT/blob/main/assets%2Feead1f3b65571c24179d4c1d47a6977.png)
+![69cc48a15134fa7445b5d0830137747](./assets/69cc48a15134fa7445b5d0830137747.png)
 - **文件上传与存储**：支持多种文件格式上传，方便用户管理学习资料与科研项目资料。
 
-![4bd824b15e5fb08846e9c7e9ce77552](./assets/17d1466f757753bfbfa754eee529cf3.png)
+![4bd824b15e5fb08846e9c7e9ce77552](./assets/4bd824b15e5fb08846e9c7e9ce77552.png)
 - **多模式对话**：提供联网搜索、知识库RAG检索、知识图谱检索、文件对话等多种模式，满足不同场景需求。
 
 ![4bd824b15e5fb08846e9c7e9ce77552]( ./assets/69cc48a15134fa7445b5d0830137747.png)
 
 - **系统设置**：用户可个性化调整模型调用、API Key配置等，实现定制化使用体验。
 
-![17d1466f757753bfbfa754eee529cf3](
-./assets/4bd824b15e5fb08846e9c7e9ce77552.png)
+![17d1466f757753bfbfa754eee529cf3](./assets/17d1466f757753bfbfa754eee529cf3.png)
 ![1c90d99a80844c645c89a4c1a9cfa71](./assets/1c90d99a80844c645c89a4c1a9cfa71.png)
 
 ### 快速启动
