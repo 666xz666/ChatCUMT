@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/666xz666/ChatCUMT-UI.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/666xz666/langchain-graph-builder.git
