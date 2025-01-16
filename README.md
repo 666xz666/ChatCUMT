@@ -46,7 +46,7 @@ npm i
 npm run serve
 ```
 
-2. 后端部署参考：[langchain-graph-builder 文档](https://github.com/666xz666/langchain-graph-builder/README.md)
+2. 后端部署参考：[langchain-graph-builder 文档]([langchain-graph-builder/README.md at main · 666xz666/langchain-graph-builder](https://github.com/666xz666/langchain-graph-builder/blob/main/README.md))
 
 ### 开发与维护
 
