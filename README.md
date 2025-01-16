@@ -28,12 +28,12 @@
 ![4bd824b15e5fb08846e9c7e9ce77552](https://github.com/666xz666/ChatCUMT/blob/main/assets%2Feead1f3b65571c24179d4c1d47a6977.png)
 - **多模式对话**：提供联网搜索、知识库RAG检索、知识图谱检索、文件对话等多种模式，满足不同场景需求。
 
-![4bd824b15e5fb08846e9c7e9ce77552](./assets/4bd824b15e5fb08846e9c7e9ce77552.png)
+![4bd824b15e5fb08846e9c7e9ce77552](./assets/17d1466f757753bfbfa754eee529cf3.png)
 
 - **系统设置**：用户可个性化调整模型调用、API Key配置等，实现定制化使用体验。
 
-![17d1466f757753bfbfa754eee529cf3](./assets/17d1466f757753bfbfa754eee529cf3.png)
-
+![17d1466f757753bfbfa754eee529cf3](
+./assets/4bd824b15e5fb08846e9c7e9ce77552.png)
 ![1c90d99a80844c645c89a4c1a9cfa71](./assets/1c90d99a80844c645c89a4c1a9cfa71.png)
 
 ### 快速启动
